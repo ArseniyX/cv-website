@@ -4,6 +4,7 @@
   "description": "3. [GitHub](https://github.com/ArseniyX/cv-website)",
   "main": "index.js",
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/ArseniyX/cv-website#readme",
   "dependencies": {
     "gatsby": "^3.7.2",
+    "gh-pages": "^3.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
