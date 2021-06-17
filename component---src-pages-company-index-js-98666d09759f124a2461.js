@@ -1,0 +1,2 @@
+(self.webpackChunkcv_website=self.webpackChunkcv_website||[]).push([[357],{7990:function(e,n,t){"use strict";t.r(n);var u=t(7294);n.default=function(){return u.createElement("div",null,"hello from Company")}}}]);
+//# sourceMappingURL=component---src-pages-company-index-js-98666d09759f124a2461.js.map

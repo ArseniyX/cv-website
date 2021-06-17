@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://cv-website/./src/pages/404.js"],"names":[],"mappings":"kIAMA,UAJc,WACZ,OAAO","file":"component---src-pages-404-js-754a865b988ea6860bc3.js","sourcesContent":["import React from \"react\"\r\n\r\nconst Error = () => {\r\n  return <div>Error Page</div>\r\n}\r\n\r\nexport default Error\r\n"],"sourceRoot":""}
