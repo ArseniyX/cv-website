@@ -1,2 +1,2 @@
 # cv-website
-3. [GitHub](https://www.arseniyx.com/)
+3. [GitHub](https://github.com/ArseniyX/cv-website)
